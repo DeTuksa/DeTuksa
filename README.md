@@ -1,9 +1,10 @@
 ### About Me:
-<!--
 I'm a passionate software engineer whose goal is tp crate impactful and meaningful software for users across the world. Experienced using Rust, Typescript, Python, Java and Javascript.
--->
+Currently improving Rust skills and diving into blockchain.
 
-Currently improving Rust skills and interested in diving into blockchain.
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=DeTuksa&theme=transparent" /> 
+</p>
 
 ### Working on: 🚀
 
@@ -19,6 +20,10 @@ Currently improving Rust skills and interested in diving into blockchain.
 | Python3 | Rust | JS | Tpescipt | Java |
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>| 
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeTuksa&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=dart,cMake" alt="Top Languages"/>
+</p>
 
 ### Environments, Testing, Other:
 
