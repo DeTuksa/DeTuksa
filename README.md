@@ -22,7 +22,7 @@ Currently improving Rust skills and diving into blockchain.
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>| 
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeTuksa&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=dart,cMake" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeTuksa&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=cMake" alt="Top Languages"/>
 </p>
 
 ### Environments, Testing, Other:
