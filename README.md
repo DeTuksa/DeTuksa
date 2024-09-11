@@ -3,7 +3,7 @@ I'm a passionate software engineer whose goal is tp crate impactful and meaningf
 Currently improving Rust skills and diving into blockchain.
 
 <p align="left">
-  <img alt="Mark streak" src="[https://github-readme-streak-stats.herokuapp.com?user=DeTuksa&theme=transparent](https://github-readme-streak-stats.herokuapp.com?user=DeTuksa&theme=tokyonight&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=DeTuksa&theme=tokyonight&exclude_days=Sun%2CSat" /> 
 </p>
 
 ### Working on: 🚀
